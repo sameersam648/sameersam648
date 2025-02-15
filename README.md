@@ -90,6 +90,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersam648&" alt="GitHub Streak" /></p>  
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sameersam648&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>  
-
-
+</p> 
